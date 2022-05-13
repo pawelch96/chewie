@@ -14,9 +14,9 @@ dependencies:
   provider: ^6.0.1
 video_player:
   git:
-    url: https://github.com/thanhit93/plugins.git
-    ref: master
-    path: packages/video_player/video_player 
+    url: https://github.com/pawelch96/video_player.git
+    ref: main
+    path: video_player 
   wakelock: ^0.6.1+1
   very_good_analysis: ^2.4.0
 
