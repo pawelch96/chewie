@@ -16,7 +16,7 @@ dependencies:
     git:
       url: https://github.com/pawelch96/video_player.git
       ref: main
-      path: video_player/video_player
+      path: video_player
   wakelock: ^0.6.1+1
   very_good_analysis: ^2.4.0
 
