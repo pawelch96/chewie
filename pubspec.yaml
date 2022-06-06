@@ -15,7 +15,7 @@ dependencies:
 video_player:
   git:
     url: https://github.com/vidvi-app/flutter_video_player.git
-    ref: master
+    ref: ios-background
     path: video_player
   wakelock: ^0.6.1+1
   very_good_analysis: ^2.4.0
